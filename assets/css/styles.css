@@ -1,0 +1,39 @@
+/*  */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+html,
+body {
+    background-color: #2F4F30;
+    color: #fff;
+}
+
+.titulo {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.carta {
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas,
+#jugador-cartas {
+    min-height: 230px;
+}
+
+
+/*  */
